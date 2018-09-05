@@ -130,6 +130,7 @@ h1 small {
 	max-width: 950px;
 	width: 100%;
 	margin: 0 auto;
+	color: #666;
 }
 .content_resize {
 	
@@ -168,6 +169,7 @@ h1 small {
 .content .sidebar {
 	float: right;
 	width:25%;
+	
 }
 .content .sidebar .gadget {
 	
@@ -184,12 +186,12 @@ ul.sb_menu li, ul.ex_menu li {
 	list-style-type: none;
 }
 ul.sb_menu li {
-	width: 100%;
+	width: 90%;
 	background-color: #ededed;
 	padding: 10px;
 }
 ul.ex_menu li {
-	width: 100%;
+	width: 90%;
 	background-color: #ededed;
 	padding: 10px;
 }
